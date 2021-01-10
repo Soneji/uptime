@@ -20,8 +20,8 @@ sites:
     url: $JAVAMAIL
   - name: mama
     url: $MAMA
-  - name: Minecraft
-    url: $MINECRAFT
+  #- name: Minecraft
+  #  url: $MINECRAFT
   - name: NextCloud
     url: $NEXTCLOUD
   - name: OnlyOffice (for NextCloud)
