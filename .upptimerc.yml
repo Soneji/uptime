@@ -28,6 +28,8 @@ sites:
     url: $ONLYOFFICE
   - name: Plex
     url: $PLEX
+    expectedStatusCodes: 
+      - 401
   - name: QB
     url: $QB
   - name: Family Shop
