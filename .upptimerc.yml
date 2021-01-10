@@ -4,20 +4,33 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Chrome
-    url: $CHROME
+  - name: soneji.xyz
+    url: soneji.xyz
+  - name: dhavalsoneji.com
+    url: dhavalsoneji.com
+  - name: Spotify Vibe Check
+    url: spotify-vibe-check.soneji.xyz
   - name: CTF
     url: https://piratecloud.tk
+
+  - name: Shynet Analytics
+    url: https://shynetanalytics.com
+
+  - name: Venom
+    url: $VENOM
+  - name: Javamail
+    url: $JAVAMAIL
+
+  - name: Chrome
+    url: $CHROME
   - name: Droppy
     url: $DROPPY
   - name: Firefox
     url: $FIREFOX
-  - name: GitHub
+  - name: GitHub Pages
     url: https://github.soneji.xyz
   - name: Images
     url: $IMAGES
-  - name: Javamail
-    url: $JAVAMAIL
   - name: mama
     url: $MAMA
   #- name: Minecraft
@@ -32,28 +45,22 @@ sites:
       - 401
   - name: QB
     url: $QB
+  - name: Sizzy
+    url: $SIZZY
+  - name: VSCode
+    url: $VSCODE
+    
   - name: Family Shop
     url: https://$FAMILY_SHOP
   - name: Family Shop (Shop)
     url: https://shop.$FAMILY_SHOP
   - name: Family Shop (Online)
     url: https://online.$FAMILY_SHOP
-  - name: Shynet Analytics
-    url: https://shynetanalytics.com
-  - name: Sizzy
-    url: $SIZZY
-  - name: soneji.xyz
-    url: soneji.xyz
-  - name: dhavalsoneji.com
-    url: dhavalsoneji.com
-  - name: Spotify Vibe Check
-    url: spotify-vibe-check.soneji.xyz
+    
   - name: VHM
     url: $VHM
-  - name: Venom
-    url: $VENOM
-  - name: VSCode
-    url: $VSCODE
+  - name: HHM
+    url: $HHM
     
 
 status-website:
