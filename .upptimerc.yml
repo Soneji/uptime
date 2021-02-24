@@ -33,8 +33,10 @@ sites:
     url: $IMAGES
   - name: mama
     url: $MAMA
-  #- name: Minecraft
-  #  url: $MINECRAFT
+  - name: Minecraft
+    check: "tcp-ping"
+    url: $MINECRAFT
+    port: $MINECRAFT_PORT
   - name: NextCloud
     url: $NEXTCLOUD
   - name: OnlyOffice (for NextCloud)
