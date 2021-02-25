@@ -4,19 +4,19 @@
     "url": "soneji.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "soneji-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 95,
-    "timeWeek": 175,
-    "timeMonth": 210,
-    "timeYear": 206,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 211,
+    "timeDay": 272,
+    "timeWeek": 202,
+    "timeMonth": 217,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "dhavalsoneji.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dhavalsoneji-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 74,
-    "timeWeek": 103,
-    "timeMonth": 137,
-    "timeYear": 122,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 121,
+    "timeDay": 60,
+    "timeWeek": 97,
+    "timeMonth": 136,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 19
     }
   },
   {
@@ -53,7 +53,7 @@
     "time": 569,
     "timeDay": 547,
     "timeWeek": 555,
-    "timeMonth": 564,
+    "timeMonth": 563,
     "timeYear": 569,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 273,
     "timeDay": 183,
     "timeWeek": 361,
-    "timeMonth": 315,
+    "timeMonth": 294,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -197,7 +197,7 @@
     "time": 80,
     "timeDay": 71,
     "timeWeek": 63,
-    "timeMonth": 75,
+    "timeMonth": 74,
     "timeYear": 80,
     "dailyMinutesDown": {}
   },
@@ -215,7 +215,7 @@
     "time": 375,
     "timeDay": 367,
     "timeWeek": 373,
-    "timeMonth": 372,
+    "timeMonth": 371,
     "timeYear": 375,
     "dailyMinutesDown": {}
   },
@@ -233,7 +233,7 @@
     "time": 551,
     "timeDay": 623,
     "timeWeek": 561,
-    "timeMonth": 551,
+    "timeMonth": 552,
     "timeYear": 551,
     "dailyMinutesDown": {}
   },
@@ -287,7 +287,7 @@
     "time": 464,
     "timeDay": 461,
     "timeWeek": 444,
-    "timeMonth": 473,
+    "timeMonth": 474,
     "timeYear": 464,
     "dailyMinutesDown": {}
   },
@@ -323,7 +323,7 @@
     "time": 359,
     "timeDay": 364,
     "timeWeek": 358,
-    "timeMonth": 358,
+    "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -359,7 +359,7 @@
     "time": 457,
     "timeDay": 536,
     "timeWeek": 455,
-    "timeMonth": 455,
+    "timeMonth": 454,
     "timeYear": 457,
     "dailyMinutesDown": {}
   },
@@ -377,7 +377,7 @@
     "time": 692,
     "timeDay": 553,
     "timeWeek": 755,
-    "timeMonth": 727,
+    "timeMonth": 731,
     "timeYear": 692,
     "dailyMinutesDown": {}
   },
@@ -395,7 +395,7 @@
     "time": 551,
     "timeDay": 775,
     "timeWeek": 562,
-    "timeMonth": 562,
+    "timeMonth": 559,
     "timeYear": 551,
     "dailyMinutesDown": {}
   },
@@ -413,7 +413,7 @@
     "time": 536,
     "timeDay": 441,
     "timeWeek": 519,
-    "timeMonth": 545,
+    "timeMonth": 543,
     "timeYear": 536,
     "dailyMinutesDown": {}
   },
@@ -431,7 +431,7 @@
     "time": 428,
     "timeDay": 422,
     "timeWeek": 398,
-    "timeMonth": 422,
+    "timeMonth": 425,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
