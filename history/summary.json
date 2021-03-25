@@ -4,17 +4,17 @@
     "url": "soneji.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "soneji-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 210,
-    "timeDay": 285,
-    "timeWeek": 198,
-    "timeMonth": 213,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 219,
+    "timeWeek": 192,
+    "timeMonth": 211,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2021-02-25": 19
     }
