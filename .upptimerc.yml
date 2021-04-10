@@ -12,6 +12,8 @@ sites:
     url: spotify-vibe-check.soneji.xyz
   - name: CTF
     url: https://piratecloud.tk
+  - name: LTT
+    url: $LTT
 
   - name: Shynet Analytics
     url: https://shynetanalytics.com
