@@ -458,17 +458,17 @@
     "url": "$HHM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hhm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 134,
-    "timeDay": 120,
-    "timeWeek": 134,
-    "timeMonth": 175,
-    "timeYear": 134,
+    "time": 133,
+    "timeDay": 106,
+    "timeWeek": 129,
+    "timeMonth": 173,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2021-03-16": 16
     }
