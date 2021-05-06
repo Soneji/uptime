@@ -444,19 +444,19 @@
     "url": "$VHM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vhm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 8016,
-    "timeWeek": 2515,
-    "timeMonth": 1318,
-    "timeYear": 653,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 651,
+    "timeDay": 5458,
+    "timeWeek": 2273,
+    "timeMonth": 1291,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 38
     }
   },
   {
