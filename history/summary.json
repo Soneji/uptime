@@ -100,19 +100,19 @@
     "url": "https://shynetanalytics.com",
     "icon": "https://favicons.githubusercontent.com/shynetanalytics.com",
     "slug": "shynet-analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.94%",
     "time": 1073,
-    "timeDay": 636,
-    "timeWeek": 1068,
-    "timeMonth": 1075,
+    "timeDay": 845,
+    "timeWeek": 1066,
+    "timeMonth": 1074,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2021-06-02": 2
+      "2021-06-02": 121
     }
   },
   {
@@ -392,19 +392,19 @@
     "url": "https://$FAMILY_SHOP",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "family-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.94%",
     "time": 701,
-    "timeDay": 707,
-    "timeWeek": 831,
-    "timeMonth": 750,
+    "timeDay": 714,
+    "timeWeek": 817,
+    "timeMonth": 749,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-06-02": 0
+      "2021-06-02": 120
     }
   },
   {
