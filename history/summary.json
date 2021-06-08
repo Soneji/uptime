@@ -62,18 +62,20 @@
     "url": "https://piratecloud.tk",
     "icon": "https://favicons.githubusercontent.com/piratecloud.tk",
     "slug": "ctf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 294,
-    "timeWeek": 451,
-    "timeMonth": 350,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 299,
+    "timeDay": 1219,
+    "timeWeek": 663,
+    "timeMonth": 406,
+    "timeYear": 299,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "LTT",
