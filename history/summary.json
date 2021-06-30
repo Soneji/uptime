@@ -198,18 +198,20 @@
     "url": "$FIREFOX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "firefox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 479,
     "timeWeek": 402,
     "timeMonth": 396,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-30": 2
+    }
   },
   {
     "name": "GitHub Pages",
@@ -234,10 +236,10 @@
     "url": "$IMAGES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "images",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
@@ -245,17 +247,19 @@
     "timeWeek": 387,
     "timeMonth": 397,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-30": 2
+    }
   },
   {
     "name": "mama",
     "url": "$MAMA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mama",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
@@ -263,7 +267,9 @@
     "timeWeek": 579,
     "timeMonth": 587,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-30": 1
+    }
   },
   {
     "name": "Minecraft",
@@ -288,10 +294,10 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
@@ -299,7 +305,9 @@
     "timeWeek": 565,
     "timeMonth": 581,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-30": 1
+    }
   },
   {
     "name": "OnlyOffice (for NextCloud)",
