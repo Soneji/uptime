@@ -1,7 +1,7 @@
 url: $JAVAMAIL
-status: down
-code: 522
-responseTime: 15321
-lastUpdated: 2021-07-02T09:50:36.115Z
+status: up
+code: 200
+responseTime: 281
+lastUpdated: 2021-07-02T09:57:22.961Z
 startTime: Sun Jan 10 2021 20:45:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
