@@ -131,7 +131,7 @@
     "uptimeYear": "99.99%",
     "time": 265,
     "timeDay": 146,
-    "timeWeek": 1964,
+    "timeWeek": 242,
     "timeMonth": 648,
     "timeYear": 265,
     "dailyMinutesDown": {
@@ -152,7 +152,7 @@
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 130,
-    "timeWeek": 1914,
+    "timeWeek": 232,
     "timeMonth": 690,
     "timeYear": 284,
     "dailyMinutesDown": {}
@@ -382,9 +382,9 @@
     "url": "$VSCODE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -393,7 +393,9 @@
     "timeWeek": 542,
     "timeMonth": 491,
     "timeYear": 468,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   },
   {
     "name": "Family Shop",
@@ -484,7 +486,7 @@
     "uptimeYear": "99.99%",
     "time": 202,
     "timeDay": 198,
-    "timeWeek": 316,
+    "timeWeek": 342,
     "timeMonth": 332,
     "timeYear": 202,
     "dailyMinutesDown": {
