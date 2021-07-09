@@ -382,19 +382,19 @@
     "url": "$VSCODE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-code",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 468,
-    "timeDay": 405,
-    "timeWeek": 542,
-    "timeMonth": 491,
+    "timeDay": 510,
+    "timeWeek": 551,
+    "timeMonth": 495,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2021-07-09": 0
+      "2021-07-09": 21
     }
   },
   {
