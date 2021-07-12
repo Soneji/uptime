@@ -144,19 +144,19 @@
     "url": "$JAVAMAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "javamail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 7648,
-    "timeWeek": 2072,
-    "timeMonth": 1110,
-    "timeYear": 357,
+    "time": 355,
+    "timeDay": 5136,
+    "timeWeek": 1854,
+    "timeMonth": 1081,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2021-07-12": 1
+      "2021-07-12": 9
     }
   },
   {
