@@ -1,7 +1,7 @@
 url: $VENOM
-status: down
-code: 521
-responseTime: 111
-lastUpdated: 2021-07-20T13:27:55.054Z
+status: up
+code: 200
+responseTime: 215
+lastUpdated: 2021-07-20T13:40:41.961Z
 startTime: Sun Jan 10 2021 20:46:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
