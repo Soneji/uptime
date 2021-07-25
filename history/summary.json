@@ -220,10 +220,10 @@
     "url": "https://github.soneji.xyz",
     "icon": "https://favicons.githubusercontent.com/github.soneji.xyz",
     "slug": "git-hub-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
@@ -231,7 +231,9 @@
     "timeWeek": 107,
     "timeMonth": 99,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-25": 1
+    }
   },
   {
     "name": "Images",
