@@ -221,18 +221,18 @@
     "icon": "https://favicons.githubusercontent.com/github.soneji.xyz",
     "slug": "git-hub-pages",
     "status": "down",
-    "uptime": "97.54%",
+    "uptime": "97.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.49%",
-    "uptimeMonth": "83.77%",
-    "uptimeYear": "97.54%",
+    "uptimeWeek": "25.94%",
+    "uptimeMonth": "82.96%",
+    "uptimeYear": "97.42%",
     "time": 103,
     "timeDay": 0,
     "timeWeek": 117,
     "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2021-07-30": 903,
+      "2021-07-30": 1260,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
       "2021-07-27": 1440,
@@ -339,9 +339,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 365,
     "timeDay": 447,
@@ -349,7 +349,7 @@
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2021-07-30": 42
+      "2021-07-30": 31
     }
   },
   {
@@ -357,9 +357,9 @@
     "url": "$QB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "qb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -368,7 +368,9 @@
     "timeWeek": 336,
     "timeMonth": 341,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 0
+    }
   },
   {
     "name": "Sizzy",
