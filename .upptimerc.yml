@@ -49,6 +49,8 @@ sites:
       - 401
   - name: QB
     url: $QB
+    expectedStatusCodes: 
+      - 401
   - name: Sizzy
     url: $SIZZY
   - name: VSCode
