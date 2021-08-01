@@ -1,7 +1,7 @@
 url: $LTT
-status: up
-code: 200
-responseTime: 384
-lastUpdated: 2021-07-31T23:10:48.489Z
+status: down
+code: 521
+responseTime: 77
+lastUpdated: 2021-08-01T02:53:39.099Z
 startTime: Sat Apr 10 2021 20:52:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
