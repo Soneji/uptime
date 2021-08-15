@@ -224,11 +224,11 @@
     "icon": "https://favicons.githubusercontent.com/github.soneji.xyz",
     "slug": "git-hub-pages",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.38%",
-    "uptimeYear": "97.38%",
+    "uptimeYear": "97.39%",
     "time": 102,
     "timeDay": 111,
     "timeWeek": 56,
@@ -425,10 +425,10 @@
     "url": "https://$FAMILY_SHOP",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "family-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 735,
@@ -437,6 +437,7 @@
     "timeMonth": 861,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2021-08-15": 1,
       "2021-06-02": 120
     }
   },
@@ -445,10 +446,10 @@
     "url": "https://shop.$FAMILY_SHOP",
     "icon": "https://favicons.githubusercontent.com/shop.",
     "slug": "family-shop-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
@@ -456,17 +457,19 @@
     "timeWeek": 850,
     "timeMonth": 741,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 1
+    }
   },
   {
     "name": "Family Shop (Online)",
     "url": "https://online.$FAMILY_SHOP",
     "icon": "https://favicons.githubusercontent.com/online.",
     "slug": "family-shop-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
@@ -474,7 +477,9 @@
     "timeWeek": 708,
     "timeMonth": 592,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 1
+    }
   },
   {
     "name": "VHM",
