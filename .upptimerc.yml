@@ -56,12 +56,12 @@ sites:
   - name: VSCode
     url: $VSCODE
     
-  - name: Family Shop
-    url: https://$FAMILY_SHOP
-  - name: Family Shop (Shop)
-    url: https://shop.$FAMILY_SHOP
-  - name: Family Shop (Online)
-    url: https://online.$FAMILY_SHOP
+  #- name: Family Shop
+  #  url: https://$FAMILY_SHOP
+  #- name: Family Shop (Shop)
+  #  url: https://shop.$FAMILY_SHOP
+  #- name: Family Shop (Online)
+  #  url: https://online.$FAMILY_SHOP
     
   - name: VHM
     url: $VHM
