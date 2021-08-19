@@ -1,7 +1,7 @@
 url: $VHM
-status: down
-code: 520
-responseTime: 14583
-lastUpdated: 2021-08-19T14:22:47.272Z
+status: up
+code: 200
+responseTime: 380
+lastUpdated: 2021-08-19T14:37:30.889Z
 startTime: Sun Jan 10 2021 20:46:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
