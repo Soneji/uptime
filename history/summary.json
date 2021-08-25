@@ -64,9 +64,9 @@
     "slug": "ctf",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "47.74%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "46.69%",
+    "uptimeWeek": "92.38%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.75%",
     "time": 388,
     "timeDay": 0,
@@ -74,7 +74,7 @@
     "timeMonth": 677,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2021-08-25": 293,
+      "2021-08-25": 308,
       "2021-08-24": 459,
       "2021-06-08": 52
     }
@@ -307,9 +307,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "92.15%",
+    "uptimeDay": "92.11%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.93%",
