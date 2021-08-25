@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/piratecloud.tk",
     "slug": "ctf",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "65.47%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.79%",
+    "uptimeDay": "56.99%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.79%",
     "time": 388,
     "timeDay": 0,
     "timeWeek": 1469,
     "timeMonth": 677,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2021-08-25": 38,
+      "2021-08-25": 160,
       "2021-08-24": 459,
       "2021-06-08": 52
     }
@@ -307,10 +307,10 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 565,
@@ -319,6 +319,7 @@
     "timeMonth": 637,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2021-08-25": 1,
       "2021-08-23": 36,
       "2021-08-11": 74
     }
@@ -346,9 +347,9 @@
     "url": "$PLEX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.94%",
@@ -358,6 +359,7 @@
     "timeMonth": 415,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2021-08-25": 0,
       "2021-08-11": 73,
       "2021-07-31": 81,
       "2021-07-30": 31
