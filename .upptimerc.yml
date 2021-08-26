@@ -11,7 +11,7 @@ sites:
   - name: Spotify Vibe Check
     url: spotify-vibe-check.soneji.xyz
   - name: CTF
-    url: https://piratecloud.tk
+    url: https://ctf.soneji.xyz
   - name: LTT
     url: $LTT
 
