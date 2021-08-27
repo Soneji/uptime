@@ -44,18 +44,20 @@
     "url": "spotify-vibe-check.soneji.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "spotify-vibe-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 661,
     "timeWeek": 575,
     "timeMonth": 589,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 5
+    }
   },
   {
     "name": "CTF",
@@ -170,54 +172,59 @@
     "url": "$CHROME",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chrome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 410,
     "timeDay": 499,
     "timeWeek": 372,
     "timeMonth": 407,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 4
+    }
   },
   {
     "name": "Droppy",
     "url": "$DROPPY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "droppy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 582,
     "timeDay": 625,
     "timeWeek": 575,
     "timeMonth": 582,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 4
+    }
   },
   {
     "name": "Firefox",
     "url": "$FIREFOX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "firefox",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 396,
     "timeDay": 426,
     "timeWeek": 394,
     "timeMonth": 388,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2021-08-27": 3,
       "2021-06-30": 16
     }
   },
@@ -230,7 +237,7 @@
     "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.78%",
+    "uptimeMonth": "87.56%",
     "uptimeYear": "97.52%",
     "time": 106,
     "timeDay": 198,
@@ -252,18 +259,19 @@
     "url": "$IMAGES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "images",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 381,
     "timeDay": 418,
     "timeWeek": 383,
     "timeMonth": 372,
     "timeYear": 381,
     "dailyMinutesDown": {
+      "2021-08-27": 3,
       "2021-06-30": 15
     }
   },
@@ -272,18 +280,20 @@
     "url": "$MAMA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mama",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 569,
     "timeDay": 641,
     "timeWeek": 560,
     "timeMonth": 568,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 2
+    }
   },
   {
     "name": "Minecraft",
@@ -330,10 +340,10 @@
     "url": "$ONLYOFFICE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "only-office-for-next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
@@ -341,7 +351,9 @@
     "timeWeek": 477,
     "timeMonth": 470,
     "timeYear": 469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 1
+    }
   },
   {
     "name": "Plex",
@@ -394,10 +406,10 @@
     "url": "$SIZZY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sizzy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
@@ -405,16 +417,18 @@
     "timeWeek": 343,
     "timeMonth": 351,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 1
+    }
   },
   {
     "name": "VSCode",
     "url": "$VSCODE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-code",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -424,6 +438,7 @@
     "timeMonth": 456,
     "timeYear": 464,
     "dailyMinutesDown": {
+      "2021-08-27": 0,
       "2021-07-09": 21
     }
   },
