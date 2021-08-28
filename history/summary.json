@@ -44,10 +44,10 @@
     "url": "spotify-vibe-check.soneji.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "spotify-vibe-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "7.98%",
-    "uptimeWeek": "84.77%",
+    "uptimeDay": "8.72%",
+    "uptimeWeek": "84.76%",
     "uptimeMonth": "96.49%",
     "uptimeYear": "99.54%",
     "time": 598,
@@ -56,7 +56,7 @@
     "timeMonth": 605,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2021-08-28": 1060,
+      "2021-08-28": 1061,
       "2021-08-27": 475
     }
   },
@@ -173,10 +173,10 @@
     "url": "$CHROME",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chrome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "8.01%",
-    "uptimeWeek": "84.78%",
+    "uptimeDay": "8.75%",
+    "uptimeWeek": "84.77%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "99.54%",
     "time": 412,
@@ -185,7 +185,7 @@
     "timeMonth": 417,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2021-08-28": 1060,
+      "2021-08-28": 1061,
       "2021-08-27": 473
     }
   },
@@ -194,10 +194,10 @@
     "url": "$DROPPY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "droppy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "8.04%",
-    "uptimeWeek": "84.80%",
+    "uptimeDay": "8.79%",
+    "uptimeWeek": "84.79%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "99.54%",
     "time": 584,
@@ -206,7 +206,7 @@
     "timeMonth": 597,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2021-08-28": 1061,
+      "2021-08-28": 1062,
       "2021-08-27": 472
     }
   },
@@ -215,10 +215,10 @@
     "url": "$FIREFOX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "firefox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "8.08%",
-    "uptimeWeek": "84.81%",
+    "uptimeDay": "8.82%",
+    "uptimeWeek": "84.80%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "99.53%",
     "time": 398,
@@ -227,7 +227,7 @@
     "timeMonth": 401,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2021-08-28": 1061,
+      "2021-08-28": 1062,
       "2021-08-27": 470,
       "2021-06-30": 16
     }
@@ -241,7 +241,7 @@
     "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.42%",
+    "uptimeMonth": "91.44%",
     "uptimeYear": "97.54%",
     "time": 106,
     "timeDay": 109,
@@ -263,10 +263,10 @@
     "url": "$IMAGES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "images",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "8.11%",
-    "uptimeWeek": "84.83%",
+    "uptimeDay": "8.85%",
+    "uptimeWeek": "84.82%",
     "uptimeMonth": "96.51%",
     "uptimeYear": "99.53%",
     "time": 383,
@@ -275,7 +275,7 @@
     "timeMonth": 386,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-08-28": 1061,
+      "2021-08-28": 1062,
       "2021-08-27": 469,
       "2021-06-30": 15
     }
@@ -285,10 +285,10 @@
     "url": "$MAMA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "8.14%",
-    "uptimeWeek": "84.84%",
+    "uptimeDay": "8.89%",
+    "uptimeWeek": "84.83%",
     "uptimeMonth": "96.51%",
     "uptimeYear": "99.54%",
     "time": 571,
@@ -297,7 +297,7 @@
     "timeMonth": 583,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2021-08-28": 1061,
+      "2021-08-28": 1062,
       "2021-08-27": 467
     }
   },
@@ -350,8 +350,8 @@
     "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "8.17%",
-    "uptimeWeek": "84.86%",
-    "uptimeMonth": "96.52%",
+    "uptimeWeek": "84.75%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "99.54%",
     "time": 470,
     "timeDay": 460,
@@ -359,7 +359,7 @@
     "timeMonth": 477,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2021-08-28": 1061,
+      "2021-08-28": 1073,
       "2021-08-27": 464
     }
   },
@@ -415,9 +415,9 @@
     "url": "$SIZZY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sizzy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "8.23%",
+    "uptimeDay": "9.00%",
     "uptimeWeek": "84.88%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "99.54%",
@@ -436,10 +436,10 @@
     "url": "$VSCODE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-code",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "8.26%",
-    "uptimeWeek": "84.90%",
+    "uptimeDay": "9.03%",
+    "uptimeWeek": "84.89%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "99.53%",
     "time": 465,
