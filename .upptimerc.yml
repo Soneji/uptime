@@ -25,24 +25,24 @@ sites:
 
   - name: Chrome
     url: $CHROME
-  - name: Droppy
-    url: $DROPPY
-  - name: Firefox
-    url: $FIREFOX
+  #- name: Droppy
+  #  url: $DROPPY
+  #- name: Firefox
+  #  url: $FIREFOX
   - name: GitHub Pages
     url: https://github.soneji.xyz
-  - name: Images
-    url: $IMAGES
-  - name: mama
-    url: $MAMA
-  - name: Minecraft
-    check: "tcp-ping"
-    url: $MINECRAFT
-    port: $MINECRAFT_PORT
+  #- name: Images
+  #  url: $IMAGES
+  #- name: mama
+  #  url: $MAMA
+  #- name: Minecraft
+  #  check: "tcp-ping"
+  #  url: $MINECRAFT
+  #  port: $MINECRAFT_PORT
   - name: NextCloud
     url: $NEXTCLOUD
-  - name: OnlyOffice (for NextCloud)
-    url: $ONLYOFFICE
+  #- name: OnlyOffice (for NextCloud)
+  #  url: $ONLYOFFICE
   - name: Plex
     url: $PLEX
     expectedStatusCodes: 
@@ -51,10 +51,10 @@ sites:
     url: $QB
     expectedStatusCodes: 
       - 401
-  - name: Sizzy
-    url: $SIZZY
-  - name: VSCode
-    url: $VSCODE
+  #- name: Sizzy
+  #  url: $SIZZY
+  #- name: VSCode
+  #  url: $VSCODE
     
   #- name: Family Shop
   #  url: https://$FAMILY_SHOP
