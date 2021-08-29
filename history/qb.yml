@@ -1,7 +1,7 @@
 url: $QB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-08-29T05:31:19.147Z
+status: up
+code: 401
+responseTime: 8879
+lastUpdated: 2021-08-29T05:39:44.691Z
 startTime: Sun Jan 10 2021 20:46:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
