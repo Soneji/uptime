@@ -23,8 +23,8 @@ sites:
   - name: Javamail
     url: $JAVAMAIL
 
-  - name: Chrome
-    url: $CHROME
+  #- name: Chrome
+  #  url: $CHROME
   #- name: Droppy
   #  url: $DROPPY
   #- name: Firefox
