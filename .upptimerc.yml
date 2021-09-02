@@ -9,7 +9,7 @@ sites:
   - name: dhavalsoneji.com
     url: dhavalsoneji.com
   - name: Spotify Vibe Check
-    url: spotify-vibe-check.soneji.xyz
+    url: spotify.soneji.xyz
   - name: CTF
     url: https://ctf.soneji.xyz
   - name: LTT
@@ -41,6 +41,9 @@ sites:
   #  port: $MINECRAFT_PORT
   - name: NextCloud
     url: $NEXTCLOUD
+  - name: FileBrowser
+    url: https://fs.soneji.xyz
+
   #- name: OnlyOffice (for NextCloud)
   #  url: $ONLYOFFICE
   - name: Plex
