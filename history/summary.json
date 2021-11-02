@@ -138,10 +138,10 @@
     "url": "$VENOM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "venom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
@@ -150,6 +150,7 @@
     "timeMonth": 218,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2021-11-02": 1,
       "2021-06-19": 24,
       "2021-04-21": 11
     }
@@ -328,18 +329,19 @@
     "url": "$HHM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hhm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
-    "timeDay": 393,
-    "timeWeek": 311,
-    "timeMonth": 303,
+    "timeDay": 267,
+    "timeWeek": 290,
+    "timeMonth": 298,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-08-02": 24,
       "2021-03-16": 16
     }
