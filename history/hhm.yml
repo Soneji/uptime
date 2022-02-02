@@ -1,7 +1,7 @@
 url: $HHM
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2022-02-01T23:12:19.496Z
+status: down
+code: 521
+responseTime: 164
+lastUpdated: 2022-02-02T18:59:04.308Z
 startTime: Sun Jan 10 2021 21:55:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
