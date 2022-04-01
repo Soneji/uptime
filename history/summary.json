@@ -4,10 +4,10 @@
     "url": "soneji.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "soneji-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
@@ -16,6 +16,7 @@
     "timeMonth": 446,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2022-04-01": 2,
       "2021-11-30": 22
     }
   },
@@ -24,9 +25,9 @@
     "url": "dhavalsoneji.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dhavalsoneji-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 64,
     "timeYear": 79,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2021-11-30": 22
     }
   },
@@ -118,18 +120,18 @@
     "icon": "https://favicons.githubusercontent.com/shynetanalytics.com",
     "slug": "shynet-analytics",
     "status": "down",
-    "uptime": "80.59%",
+    "uptime": "80.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.32%",
+    "uptimeYear": "76.25%",
     "time": 813,
     "timeDay": 347,
     "timeWeek": 416,
     "timeMonth": 426,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2022-04-01": 66,
+      "2022-04-01": 413,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
